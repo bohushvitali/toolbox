@@ -1,5 +1,5 @@
 ## References
 
-- https://github.com/eclipse/che-dockerfiles/tree/master/recipes/stack-base/centos
+- https://github.com/eclipse/che-dockerfiles/tree/master/recipes/stack-base/debian
 
-- https://github.com/CubedHost/docker-centos7-dind-node
+- https://github.com/unboundedsystems/minikube-dind
